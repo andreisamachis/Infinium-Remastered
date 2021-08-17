@@ -1,9 +1,9 @@
 {
     "name": "infinium-remastered",
-    "displayName": "Infinium Remastered Dark Theme",
+    "displayName": "Infinium Dark Theme Remastered",
     "description": "",
     "publisher": "weezzy44",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.53.0"
     },
@@ -20,6 +20,11 @@
                 "label": "Infinium Remastered",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Infinium Remastered-color-theme.json"
+            },
+            {
+                "label": "Infinium Remastered Bordered",
+                "uiTheme": "vs-dark",
+                "path": "/themes/Infinium Remastered-color-theme-bordered.json"
             }
         ]
     },
